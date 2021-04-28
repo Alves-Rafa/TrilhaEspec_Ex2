@@ -1,0 +1,11 @@
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.csprojAssemblyReference.cache
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.AssemblyInfoInputs.cache
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.AssemblyInfo.cs
+C:\Users\Casa-PC\TrilhaEspec_Ex2\bin\Debug\netcoreapp2.1\TrilhaEspec_Ex2.deps.json
+C:\Users\Casa-PC\TrilhaEspec_Ex2\bin\Debug\netcoreapp2.1\TrilhaEspec_Ex2.runtimeconfig.json
+C:\Users\Casa-PC\TrilhaEspec_Ex2\bin\Debug\netcoreapp2.1\TrilhaEspec_Ex2.runtimeconfig.dev.json
+C:\Users\Casa-PC\TrilhaEspec_Ex2\bin\Debug\netcoreapp2.1\TrilhaEspec_Ex2.dll
+C:\Users\Casa-PC\TrilhaEspec_Ex2\bin\Debug\netcoreapp2.1\TrilhaEspec_Ex2.pdb
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.dll
+C:\Users\Casa-PC\TrilhaEspec_Ex2\obj\Debug\netcoreapp2.1\TrilhaEspec_Ex2.pdb
